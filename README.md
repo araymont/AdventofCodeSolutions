@@ -29,7 +29,7 @@ I did fail part 2 initially, only because I forgot to make it push all values be
 
 Day   |Part 1| Part 2|
 ------|------|-------|
-Day 1 |      |       |
+Day 1 |  ⭐  |  ⭐  |
 Day 2 |      |       |
 Day 3 |      |       |
 Day 4 |      |       |
