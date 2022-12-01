@@ -18,3 +18,14 @@ so i slightly edited it, because it was too advanced for the purpose I needed it
 I did fail part 2 initially, only because I forgot to make it push all values below down. After fixing that, I passed it.
 
 
+
+
+
+
+
+
+
+## Table of how I did
+
+Day|Part 1| Part 2|
+---|------|-------|
