@@ -17,6 +17,12 @@ so i slightly edited it, because it was too advanced for the purpose I needed it
 
 I did fail part 2 initially, only because I forgot to make it push all values below down. After fixing that, I passed it.
 
+## Day 2
+Yea this one wasn't too bad, same input system as day1 but splitting each line into an array with 2 values useing .split()
+I made some functions to calculate the points from the thing I chose and another to determine the points gained by the outcome
+then added those values and that was it!
+
+Part 2 was pretty nice as well, I failed It once, but that was because in moving things around I forgot to account for the fact that even in a loss you still get some points
 
 
 
@@ -30,7 +36,7 @@ I did fail part 2 initially, only because I forgot to make it push all values be
 Day   |Part 1| Part 2|
 ------|------|-------|
 Day 1 |  ⭐  |  ⭐  |
-Day 2 |      |       |
+Day 2 |  ⭐  |  ⭐  |
 Day 3 |      |       |
 Day 4 |      |       |
 Day 5 |      |       |
