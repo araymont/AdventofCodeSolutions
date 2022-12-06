@@ -25,6 +25,8 @@ then added those values and that was it!
 Part 2 was pretty nice as well, I failed It once, but that was because in moving things around I forgot to account for the fact that even in a loss you still get some points
 
 
+## Day 3
+
 
 
 
